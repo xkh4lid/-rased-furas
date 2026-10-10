@@ -1,0 +1,7 @@
+name = "rased-furas"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+
+# Enable after configuring permitted project feeds:
+# [triggers]
+# crons = ["*/15 * * * *"]
